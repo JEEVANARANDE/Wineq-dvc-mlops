@@ -39,3 +39,15 @@ git add .
 ```bash
 git commit -m "first commit"
 ```
+
+```bash
+git branch -M main
+ ```
+ 
+```bash
+git remote add origin https://github.com/JEEVANARANDE/Wineq-dvc-mlops.git
+```
+
+```bash
+git push -u origin main
+```

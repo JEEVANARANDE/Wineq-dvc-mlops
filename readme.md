@@ -19,7 +19,10 @@ pip install -r requirement.txt
 downloaded the data from below link (winquality)
 ```bash
 https://raw.githubusercontent.com/mlflow/mlflow-example/master/wine-quality.csv
+
 ```
+command to start with git
+
 ``` bash
 git init
 ```
@@ -43,7 +46,7 @@ git commit -m "first commit"
 ```bash
 git branch -M main
  ```
- 
+
 ```bash
 git remote add origin https://github.com/JEEVANARANDE/Wineq-dvc-mlops.git
 ```

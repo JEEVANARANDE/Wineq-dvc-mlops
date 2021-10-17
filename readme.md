@@ -20,13 +20,22 @@ downloaded the data from below link (winquality)
 ```bash
 https://raw.githubusercontent.com/mlflow/mlflow-example/master/wine-quality.csv
 ```
-
+``` bash
 git init
+```
 
+```bash
 dvc init
+```
 
+```bash
 dvc add data_given/winequality.csv
+```
 
+```bash
 git add .
+```
 
+```bash
 git commit -m "first commit"
+```
